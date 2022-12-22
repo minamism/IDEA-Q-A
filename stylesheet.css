@@ -1,3 +1,7 @@
+*{
+  box-sizing: border-box;
+}
+
 body{
   background-color: rgb(202, 246, 241);
 }
@@ -15,7 +19,6 @@ body{
 header{
   height: 80px;
   background-color: black;
-  position: fixed;
 }
 
 .header-left img{
