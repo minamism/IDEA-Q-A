@@ -4,6 +4,7 @@
 
 body{
   background-color: rgb(202, 246, 241);
+  margin: 0;
 }
 
 .container{
@@ -13,9 +14,7 @@ body{
   margin: 0 auto;
 }
 
-.clear{
-  clear: left;
-}
+
 header{
   height: 80px;
   background-color: black;
