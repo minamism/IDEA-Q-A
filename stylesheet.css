@@ -54,9 +54,14 @@ header{
 .contents{
   padding: 10px 0;
   line-height: 17px;
+  list-style: none;
 }
 .q-and-a h2{
   font-size: 19px;
+  background-color: rgb(225, 225, 225);
+  opacity: 0.7;
+  margin: 0 30px 20px 0;
+  padding: 20px 30px;
 }
 
 .q-and-a p{
