@@ -1,0 +1,13 @@
+@media all and (max-width:670px ){
+  .q-and-a h1{
+    font-size: 33px;
+  }
+
+  .q-and-a h2{
+    font-size: 15px;
+  }
+  
+  .q-and-a p{
+    font-size: 19px;
+  }
+}
