@@ -1,13 +1,31 @@
 @media all and (max-width:670px ){
+  .header-right a{
+    height: 40px;
+    line-height: 7px;
+    text-align: center;
+    padding: 25px;
+    font-weight: bolder;
+    border-radius: 10px;
+    margin: 15px 0;
+  }
+
+  .phone-right-pc{
+    display: none;
+  }
+
+  .phone-right-phone{
+    display: block;
+  }
+
   .q-and-a h1{
-    font-size: 28px;
+    font-size: 25px;
   }
 
   .contents{
-    font-size: 12px;
+    font-size: 7px;
   }
-}
 
 .q-and-a ul{
   padding: 0;
+}
 }
