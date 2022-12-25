@@ -18,6 +18,10 @@ body{
 header{
   height: 82px;
   background-color: black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 
 .header-left img{
@@ -46,7 +50,7 @@ header{
 }
 
 .q-and-a{
-  padding: 25px 0 35px 0;
+  padding: 82px 0 35px 0;
   font-family: "游ゴシック";
 }
 
