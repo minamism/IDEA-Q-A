@@ -1,9 +1,13 @@
 @media all and (max-width:670px ){
   .q-and-a h1{
-    font-size: 33px;
+    font-size: 28px;
   }
 
   .contents{
-    font-size: 15px;
+    font-size: 12px;
   }
+}
+
+.q-and-a ul{
+  padding: 0;
 }

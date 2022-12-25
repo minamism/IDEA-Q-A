@@ -16,7 +16,7 @@ body{
 
 
 header{
-  height: 80px;
+  height: 82px;
   background-color: black;
 }
 
@@ -31,9 +31,9 @@ header{
   float: right;
   color: antiquewhite;
   background-color: rgb(18, 169, 134);
-  height: 80px;
+  height: 82px;
   text-align: center;
-  padding: 30px 30px;
+  padding: 30px;
   font-weight: bolder;
 }
 
@@ -51,12 +51,16 @@ header{
   border-bottom: 1px solid gray;
 }
 
+.q-and-a ul{
+  padding: 0 40px;
+}
+
 .contents{
-  padding: 10px 0 10px 20px;
+  padding: 10px 20px 10px 20px;
   line-height: 17px;
   list-style: none;
   background-color: rgb(225, 225, 225);
-  margin: 20px 0;
+  margin: 30px 0;
   box-shadow: 0px 0px 4px 0px rgb(0 0 0 / 20%);
   border-radius: 20px;
 }
@@ -65,7 +69,7 @@ header{
   display: flex;
   align-items: center;
   font-size: 19px;
-  padding-right:10px;
+  padding:0 10px;
   font-size: 18px;
 }
 
@@ -81,7 +85,7 @@ header{
   display: flex;
   align-items: center;
   font-size: 19px;
-  padding-right:10px;
+  padding:0 10px;
   font-size: 18px;
 }
 
@@ -116,8 +120,7 @@ footer{
   border-top: 1px solid gray;
   text-align: center;
   line-height: 1px;
-  background-color: rgb(202, 246, 241);
-  height: 100px;
+  height: 110px;
 }
 footer img{
   height: 55px;
@@ -128,6 +131,5 @@ footer img{
 footer p{
   font-size: 13px;
   color: gray;
-  padding: 3px 0 5px 0;
   margin: 0;
 }
