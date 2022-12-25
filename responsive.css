@@ -21,11 +21,13 @@
     font-size: 25px;
   }
 
-  .contents{
-    font-size: 7px;
-  }
-
 .q-and-a ul{
   padding: 0;
 }
+
+.question, .answer{
+  font-size: 15px;
+}
+
+
 }
