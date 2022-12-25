@@ -1,12 +1,12 @@
 @media all and (max-width:670px ){
   .header-right a{
     height: 40px;
-    line-height: 7px;
+    line-height: 1px;
     text-align: center;
     padding: 25px;
     font-weight: bolder;
     border-radius: 10px;
-    margin: 15px 0;
+    margin: 16px 0;
   }
 
   .phone-right-pc{
