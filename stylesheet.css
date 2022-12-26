@@ -34,12 +34,11 @@ header{
 
 .header-right a{
   float: right;
-  color: antiquewhite;
-  background-color: rgb(18, 169, 134);
+  color: white;
+  background-color: rgb(18, 169, 134, 0.9);
   height: 82px;
   text-align: center;
   padding: 30px;
-  font-weight: bolder;
 }
 
 .header-right a:hover{
@@ -121,8 +120,8 @@ header{
 }
 
 .btn a{
-  background-color: rgb(18, 169, 134);
-  color: antiquewhite;
+  background-color: rgb(18, 169, 134, 0.9);
+  color: white;
   text-align: center;
   padding: 30px 50px;
   border-radius: 4px;
