@@ -27,9 +27,8 @@ header{
 
 .header-left img{
   float: left;
-  height: 70px;
-  width: 124px;
-  margin: 6px 0;
+  width: 120px;
+  margin: 23px 0;
 }
 
 .header-right a{
@@ -139,9 +138,8 @@ footer{
   height: 110px;
 }
 footer img{
-  height: 55px;
   width: 100px;
-  margin: 20px auto 0 auto;
+  margin: 30px auto 10px auto;
 }
 
 footer p{
